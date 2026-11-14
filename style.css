@@ -330,7 +330,7 @@ html.invitation-active .hero-invitation { animation-play-state: paused; }
 .calendar-btn { background: rgba(250,247,241,.9); border-color: #8c8177; color: var(--ink); }
 .calendar-btn:hover { background: #e8e1d9; }
 /* How It All Began */
-.story-section { background: var(--page) url("./images/story-dekstop.webp") center / cover no-repeat; }
+.story-section { background: var(--page) url("./images/story-desktop.webp") center / cover no-repeat; }
 .story-grid { display: grid; grid-template-columns: 1.03fr .97fr; align-items: center; gap: clamp(32px, 6vw, 78px); }
 .story-image {
   position: relative;
