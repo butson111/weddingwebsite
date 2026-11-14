@@ -956,3 +956,17 @@ html.invitation-active .site-petals { opacity: 0; visibility: hidden; }
 @media (prefers-reduced-motion: reduce) {
   .site-petals { display: none; }
 }
+
+/* Desktop countdown */
+.countdown-section {
+  min-height: 75svh;
+  padding-block: 50px;
+}
+
+/* Mobile countdown */
+@media (max-width: 800px) {
+  .countdown-section {
+    min-height: 70svh;
+    padding-block: 45px;
+  }
+}
