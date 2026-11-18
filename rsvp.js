@@ -3,7 +3,7 @@
 // IMPORTANT: After deploying your Cloudflare Worker, replace this placeholder
 // with its real /workers.dev URL, WITHOUT a trailing slash.
 // Example: https://jz-wedding-rsvp-api.your-account.workers.dev
-const RSVP_API_URL = 'https://YOUR-WORKER-SUBDOMAIN.workers.dev';
+const RSVP_API_URL = 'https://jz-wedding-rsvp-api.use-jaygalvan.workers.dev';
 
 const $ = (id) => document.getElementById(id);
 const steps = ['stepSearch', 'stepMatches', 'stepGuests', 'stepFinished'];
