@@ -422,7 +422,7 @@ html.invitation-active .hero-invitation { animation-play-state: paused; }
 
 /* Ceremony and reception — show original background colors, without a fading overlay */
 .details-section {
-  background-color: #f5e6e7;
+  background-color: #fdfdfb;
   background-image: url("./images/weddingdetails-desktop.webp");
   background-size: cover;
   background-position: center;
