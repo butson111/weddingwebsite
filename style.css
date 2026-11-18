@@ -441,7 +441,7 @@ html.invitation-active .hero-invitation { animation-play-state: paused; }
 .venue-content .button { width: 100%; margin-top: auto; }
 
 /* Attire and palette — preserve full artwork, without image cropping */
-.dress-section { background: var(--page); }
+.dress-section { background: #fdfdfb; }
 .attire-grid { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); align-items: start; gap: clamp(16px,2.4vw,30px); }
 .attire-card { min-width: 0; margin: 0; background: transparent; }
 .attire-image-placeholder { width: 100%; }
