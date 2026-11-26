@@ -547,9 +547,9 @@ html.invitation-active .hero-invitation { animation-play-state: paused; }
 .party-pair--sponsors .party-column:first-child { grid-column: 1; grid-row: 1; text-align: right; }
 .party-pair--sponsors .party-column:last-child { grid-column: 3; grid-row: 1; text-align: left; }
 .party-pair--sponsors .party-names {
-  font: 400 clamp(18px, 1.85vw, 24px)/1.5 var(--serif);
+  font: 300 clamp(18px, 1.85vw, 24px)/1.5 "Montserrat", var(--sans);
   letter-spacing: 0;
-  color: #535353;
+  color: #464038;
 }
 .party-pair--sponsors .party-names li {
   margin-bottom: 4px;
