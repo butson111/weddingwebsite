@@ -547,7 +547,7 @@ html.invitation-active .hero-invitation { animation-play-state: paused; }
 .party-pair--sponsors .party-column:first-child { grid-column: 1; grid-row: 1; text-align: right; }
 .party-pair--sponsors .party-column:last-child { grid-column: 3; grid-row: 1; text-align: left; }
 .party-pair--sponsors .party-names {
-  font: 300 clamp(18px, 1.85vw, 24px)/1.5 "Montserrat", var(--sans);
+  font: 300 clamp(14px, 1.25vw, 16px)/1.65 "Montserrat", var(--sans);
   letter-spacing: 0;
   color: #464038;
 }
@@ -592,7 +592,7 @@ html.invitation-active .hero-invitation { animation-play-state: paused; }
   .party-group--little { padding-top: 15px; padding-bottom: 0; }
   .party-pair { column-gap: clamp(13px, 3vw, 26px); }
   .party-pair--sponsors { column-gap: clamp(12px, 2.5vw, 24px); }
-  .party-pair--sponsors .party-names { font-size: clamp(15px, 2.5vw, 20px); }
+  .party-pair--sponsors .party-names { font-size: clamp(12.5px, 2.15vw, 14px); }
   .party-script { font-size: clamp(27px, 5vw, 35px); line-height: 1.14; }
   .party-names { font-size: clamp(12.5px, 2.15vw, 14px); line-height: 1.65; }
   .party-symbols .party-script { font-size: clamp(24px, 3.6vw, 32px); }
@@ -612,7 +612,7 @@ html.invitation-active .hero-invitation { animation-play-state: paused; }
     margin-inline: auto;
     column-gap: clamp(7px, 1.8vw, 11px);
   }
-  .party-pair--sponsors .party-names { font-size: clamp(12px, 3.05vw, 15px); line-height: 1.55; }
+  .party-pair--sponsors .party-names { font-size: clamp(10px, 2.8vw, 13px); line-height: 1.65; }
   .party-group--parents .party-script { font-size: clamp(24px, 6.3vw, 31px); }
   .party-section > .container { width: calc(100% - 30px); }
   .party-pair--children { row-gap: 26px; }
